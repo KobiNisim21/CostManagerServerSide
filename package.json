@@ -1,0 +1,17 @@
+{
+  "name": "ofek",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "joi": "^17.7.1",
+    "mongoose": "^6.9.1"
+  }
+}
