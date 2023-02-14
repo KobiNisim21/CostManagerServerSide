@@ -33,8 +33,8 @@ db.on("error", () => {
 
 const user = new usersModel({
     id: "123123",
-    first_name: "Moshe",
-    last_name: "Israeli",
+    first_name: "moshe",
+    last_name: "israeli",
     birthday: new Date(1990, 01, 10),
   });
   
